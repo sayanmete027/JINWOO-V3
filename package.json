@@ -1,15 +1,15 @@
 {
-  "name": "Jinwoo-v3",
+  "name": "Sayan-v3",
   "version": "10.8.1",
-  "description": "Jinwoo v3 latest multi device whatsapp bot",
+  "description": "Sayan v3 latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name jinwoo",
+    "start": "pm2 start index.js --deep-monitoring --attach --name Sayan",
     "stop": "pm2 stop jinwoo",
-    "restart": "pm2 restart jinwoo"
+    "restart": "pm2 restart Sayan"
   },
-  "keywords": ["jinwoo-bot", "whatsapp-bot", "whatsapp md bot"],
+  "keywords": ["Sayan-bot", "whatsapp-bot", "whatsapp md bot"],
   "author": "kingmalvn",
   "license": "ISC",
   "dependencies": {
