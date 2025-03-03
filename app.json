@@ -1,9 +1,9 @@
 {
-  "name": "ᴊɪɴᴡᴏᴏ-ᴠ3",
-  "description": "I am JINWOO MD WhatsApp MultiDevice Bot built in NodeJs to enhance the experience.",
-  "logo": "https://i.ibb.co/TqrthF8S/temp-image.jpg",
-  "keywords": ["Jinwoo-v3"],
-  "repository": "https://github.com/kingmalvin/Jinwoo-v3",
+  "name": "SAYAN-xMD-ᴠ3",
+  "description": "I am SAYAN MD WhatsApp MultiDevice Bot built in NodeJs to enhance the experience.",
+  "logo": "https://files.catbox.moe/yccoym.jpg",
+  "keywords": ["Sayan-v3"],
+  "repository": "https://github.com/sayanmete027/JINWOO-V3",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
@@ -14,12 +14,12 @@
     "MODE": {
       "description": "mode public or self",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "ANTI_DELETE": {
       "description": "make it true for use anti delete",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_STATUS_SEEN": {
       "description": "make it true if you want bot to view status",
@@ -34,17 +34,17 @@
     "STATUS_READ_MSG": {
       "description": "set your status reply message",
       "required": false,
-      "value": "*Status Seen By ᴊɪɴᴡᴏᴏ ʙᴏᴛ ᴠ3 👻🤍*"
+      "value": "*Status Seen By SAYAN ʙᴏᴛ ᴠ3 👻🤍*"
     },
     "OWNER_NAME": {
       "description": "set your status reply message",
       "required": false,
-      "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+      "value": "SAYAN xMD"
     },
     "OWNER_NUMBER": {
       "description": "set your status reply message",
       "required": false,
-      "value": "263714757857"
+      "value": "918972767390"
     },
     "AUTO_READ": {
       "description": "make it true if you want bot to read message",
@@ -74,12 +74,12 @@
     "REJECT_CALL": {
       "description": "make it true if you want to reject call",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "PREFIX": {
       "description": "Your Bot Prefix default (.)",
       "required": false,
-      "value": "."
+      "value": "-"
     }
     },
     "buildpacks": [
