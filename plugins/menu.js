@@ -68,8 +68,8 @@ const test = async (m, Matrix) => {
   if (validCommands.includes(cmd)) {
     const str = `
 ╭──────────────
-┊ ʙᴏᴛɴᴀᴍᴇ : *ᴊɪɴᴡᴏᴏ ᴠ3*
-┊ ᴏᴡɴᴇʀ : *ᴍᴀʟᴠɪɴ ᴋɪɴɢ*
+┊ ʙᴏᴛɴᴀᴍᴇ : *SAYAN xMD*
+┊ ᴏᴡɴᴇʀ : *SAYAN-v3*
 ┊ ᴜsᴇʀ : *${m.pushName}*
 ┊ ᴍᴏᴅᴇ : *${mode}*
 ┊ ᴘʟᴀᴛғᴏʀᴍ : *${os.platform()}*
@@ -205,7 +205,7 @@ const test = async (m, Matrix) => {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363306168354073@newsletter',
-          newsletterName: "JINWOO-MD-V3",
+          newsletterName: "SAYAN-xMD-V3",
           serverMessageId: 143
         }
       }
